@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124817061862",
+    "project_id": "trenstecdona",
+    "storage_bucket": "trenstecdona.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124817061862:android:8cf80b6688d814be874827",
+        "android_client_info": {
+          "package_name": "com.trens.tecdona"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonSu60LxpEzQPN6Ru0yw54tVI6g5x2eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
